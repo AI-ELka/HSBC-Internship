@@ -1,2 +1,0 @@
-# HSBC-Internship
-Internship Report
