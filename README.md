@@ -4,5 +4,5 @@ This repository contains my internship report for HSBC.
 
 ## Contents
 
-- [Tech Report](tech report.pdf)
+- [Technical report](Technical report HSBC.pdf)
 
